@@ -17,7 +17,7 @@ An end-to-end analysis of the factors that influence student exam performance. T
 7. [Repository Structure](#repository-structure)
 8. [How to Run](#how-to-run)
 9. [Limitations and Future Work](#limitations-and-future-work)
-10. [Author](#author)
+
 
 ---
 
@@ -187,14 +187,4 @@ Syntecxhub_Student_Performance_Analysis/
 
 ---
 
-## Author
 
-**Shivam Sachan**
-Data Analysis Intern, [Syntecxhub](https://www.syntecxhub.com)
-
-- LinkedIn: *(add your profile link)*
-- GitHub: *(add your profile link)*
-
----
-
-*Completed as part of the Syntecxhub Internship Program. #Syntecxhub*
